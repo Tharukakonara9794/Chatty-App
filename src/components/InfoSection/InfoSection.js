@@ -40,7 +40,7 @@ function InfoSection({
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
 
-                <a href="https://chattychat2.netlify.app/">
+                <a href="https://chatty-applk.netlify.app/">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>
